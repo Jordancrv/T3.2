@@ -1,0 +1,16 @@
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\bin\Debug\net6.0-windows\T3_FUNDA.exe
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\bin\Debug\net6.0-windows\T3_FUNDA.deps.json
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\bin\Debug\net6.0-windows\T3_FUNDA.runtimeconfig.json
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\bin\Debug\net6.0-windows\T3_FUNDA.dll
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\bin\Debug\net6.0-windows\T3_FUNDA.pdb
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\obj\Debug\net6.0-windows\T3_FUNDA.Form1.resources
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\obj\Debug\net6.0-windows\T3_FUNDA.csproj.GenerateResource.cache
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\obj\Debug\net6.0-windows\T3_FUNDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\obj\Debug\net6.0-windows\T3_FUNDA.AssemblyInfoInputs.cache
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\obj\Debug\net6.0-windows\T3_FUNDA.AssemblyInfo.cs
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\obj\Debug\net6.0-windows\T3_FUNDA.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\obj\Debug\net6.0-windows\T3_FUNDA.dll
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\obj\Debug\net6.0-windows\refint\T3_FUNDA.dll
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\obj\Debug\net6.0-windows\T3_FUNDA.pdb
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\obj\Debug\net6.0-windows\T3_FUNDA.genruntimeconfig.cache
+C:\Users\Jordan\source\repos\T3_FUNDA\T3_FUNDA\obj\Debug\net6.0-windows\ref\T3_FUNDA.dll
